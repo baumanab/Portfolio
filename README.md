@@ -8,7 +8,7 @@ The Udacity Data Analyst Nanodegree requires a pre-requisite familiarity and exp
 
 During this course we learned principles and tools (dimple.js, d3.js) for creating an effective data visualization. For my project I wrangled and transformed tide data in python, then used dimple, d3, moment, and vanilla javascript to create an interactive visualization designed to help the user determine when to attempt a low tide hike between two parks in North Seattle. View a live version of my final project visualization here: [Seattalytics](http://seattalytics.com).  Source code and additonal project details are available at the project [Github Repository](https://github.com/baumanab/seattle_tides).
 
-![Screen Shot](tide_vis.png)
+![Screen Shot](tide_vis.PNG)
 
 ## Identifying Fraud from Enron Email
 
