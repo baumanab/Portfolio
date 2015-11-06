@@ -38,7 +38,7 @@ During this course and related project we learned how to acquire, audit, wrangle
 
 Please not I am certified as having "rocked it."  
 
-![DAND Certificate](DAND_certificate.PNG)
+![DAND Certificate](DAND_certificate.png)
 
 
 
