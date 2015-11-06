@@ -13,12 +13,12 @@ During this course we learned principles and tools (dimple.js, d3.js) for creati
 ## Identifying Fraud from Enron Email
 
 **Skills Developed:** PYTHON, SCIKIT-LEARN, NATURAL LANGUAGE PROCESSING, FEATURE SELECTION, VERIFYING MACHINE LEARNING PERFORMANCE
-This project focused on developing a machine learning algorithm for identifying fraud, using the Enron data set. While this was not my first exposure to machine learning, it was the first time really digging into sklearn. I really enjoyed building pipelines for feature selection and tuning as well as balancing recall and precision on a sparse data set.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_intro_machinelearning_project).
+This project focused on developing a machine learning algorithm for identifying fraud, using the Enron data set. While this was not my first exposure to machine learning, it was the first exposure to sklearn. I enjoyed building pipelines for feature selection and tuning as well as balancing recall and precision on a sparse data set.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_intro_machinelearning_project).
 
 ## Explore and Summarize Data
 
 **Skills Devloped:** RSTUDIO, R PACKAGES, PLOTTING IN R, EXPLORATORY DATA ANALYSIS TECHNIQUES 
-For this project I used R to perform exploratory data analysis (EDA) on a WA school vaccine exemption data set (2011, 2012, 2013) provided by the WA Department of Health (DOH). The data required extensive cleaning and wrangling, prior to exploration. This was the first time I had cleaned data with R, it was challenging, but enjoyable. My favorite part of this experience was learning about "tidy" data and using specific R packages to tidy the data (dplyr, tidyR etc). Another great aspect was learning how to use RStudio to create .md files and knit them to html for dissemination.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/EDA_R_Udacity).
+For this project I used R to perform exploratory data analysis (EDA) on a Washington State school vaccine exemption data set (2011, 2012, 2013) provided by the WA Department of Health (DOH). The data required extensive cleaning and wrangling, prior to exploration. This was my first experience cleaning data in R, it was challenging, but enjoyable. My favorite part of this experience was learning about "tidy" data and using specific R packages to tidy the data (dplyr, tidyR etc). Another great aspect was learning how to use RStudio to create .MD files and knit them into html for dissemination.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/EDA_R_Udacity).
 
 ![](https://github.com/baumanab/EDA_R_Udacity/blob/master/EDA_R_FinalProject/img/final_plot_two.png)
 
@@ -32,6 +32,10 @@ During the course we analyzed NYC subway data from May 2011. We wrangled and int
 
 **Skills Developed:** PYTHON, MONGODB, DATA VERIFICATION, DATA CLEANING 
 During this course and related project we learned how to acquire, audit, wrangle, and clean data, as well as how to reshape the data for MongoDB. Ultimately we used these skills to clean and explore OpenstreetMaps data. The entire concept of programmatic data wrangling was new to me, as was the use of a nosql database (previous experience with relational). It was intimidating at first but now I have to ability to take command of the data sets I'm interested in exploring. It has been a useful skill for subsequent projects and for the computational aspects of my mass proteomics and mass spectrometry work. Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_mongo_github).
+
+
+## Certificate of Completion
+
 
 
 
