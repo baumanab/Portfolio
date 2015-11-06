@@ -1,6 +1,6 @@
 # Data Analyst Project Portfolio
 
-The Udacity Data Analyst Nanodegree requires a pre-requisite familiarity and experience in statistics and computer programming, followed by completion of several courses that build the foundations of data science and analysis.
+The Udacity Data Analyst Nanodegree requires a pre-requisite familiarity and experience in statistics and computer programming, followed by completion of several courses that build the foundations of data science and analysis.  Learn more about the program [here](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 ## Make An Effective Data Visualization
 
