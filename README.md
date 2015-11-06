@@ -20,6 +20,8 @@ This project focused on developing a machine learning algorithm for identifying 
 **Skills Devloped:** RSTUDIO, R PACKAGES, PLOTTING IN R, EXPLORATORY DATA ANALYSIS TECHNIQUES 
 For this project I used R to perform exploratory data analysis (EDA) on a WA school vaccine exemption data set (2011, 2012, 2013) provided by the WA Department of Health (DOH). The data required extensive cleaning and wrangling, prior to exploration. This was the first time I had cleaned data with R, it was challenging, but enjoyable. My favorite part of this experience was learning about "tidy" data and using specific R packages to tidy the data (dplyr, tidyR etc). Another great aspect was learning how to use RStudio to create .md files and knit them to html for dissemination.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/EDA_R_Udacity).
 
+![](https://github.com/baumanab/EDA_R_Udacity/blob/master/EDA_R_FinalProject/img/final_plot_two.png)
+
 
 ## Analyzing the New York Subway Dataset
 
