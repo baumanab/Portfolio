@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Herein lies selected work from recent data science projects.  Past project in which I have had involvement include:
+Herein lies selected work from recent data science projects.  Past projects in which I have had involvement include:
 
 - [SPIRE: Systematic protein investigative research environment](http://www.sciencedirect.com/science/article/pii/S1874391911002004)
 - [Design and Initial Characterization of the SC-200 Proteomics Standard Mixture](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3110723/)
