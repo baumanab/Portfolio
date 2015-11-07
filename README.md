@@ -5,7 +5,8 @@ Herein lies selected work from recent data science projects.  Past projects in w
 - [SPIRE: Systematic protein investigative research environment](http://www.sciencedirect.com/science/article/pii/S1874391911002004)
 - [Design and Initial Characterization of the SC-200 Proteomics Standard Mixture](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3110723/)
 - [IPM: An integrated protein model for false discovery rate estimation and identification in high-throughput proteomics](http://www.sciencedirect.com/science/article/pii/S1874391911002582)
-- [Estimating false discovery rates for peptide and protein identification using randomized databases](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200900619/full)
+- [Estimating false discovery rates for peptide and protein identification using randomized databases](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200900619/full)Education and data-intensive science in the beginning of the 21st century
+- [Education and data-intensive science in the beginning of the 21st century](DISWEducation.pdf)
 
 ## Udacity Data Analyst Nanodegree Project Portfolio
 
