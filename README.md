@@ -47,7 +47,7 @@ This course focuses on analyzing and reporting on a NYC subway data set from May
 
 This course focuses on how to acquire, audit, wrangle, and clean data, as well as how to reshape the data for MongoDB. Ultimately I used these skills to clean and explore OpenstreetMaps data for the Seattle area. The entire concept of programmatic data wrangling was new to me, as was the use of a nosql database (previous experience was with relational databases). It was intimidating at first but now I have to ability to take command of the data sets I'm interested in exploring. It has been a useful skill for subsequent projects and for the computational aspects of my proteomics and mass spectrometry work. Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_mongo_github).
 
-### Design and A/B Test
+### Design an A/B Test
 
 **Skills Developed:** A/B TEST DESIGN, VARIABILITY OF DIFFERENT METRICS, BINOMIAL DISTRIBUTION, CONFIDENCE INTERVALS, SIGN TEST HYPOTHESIS TESTING, MULTIPLE COMPARISONS 
 
