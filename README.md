@@ -23,11 +23,13 @@ This course focuses on the principles and tools (dimple.js, d3.js) for creating 
 ### Identifying Fraud from Enron Email
 
 **Skills Developed:** PYTHON, SCIKIT-LEARN, NATURAL LANGUAGE PROCESSING, FEATURE SELECTION, VERIFYING MACHINE LEARNING PERFORMANCE
+
 This course and project focused on developing a machine learning algorithm for identifying fraud, using the Enron data set. While this was not my first exposure to machine learning, it was the first exposure to sklearn. I enjoyed building pipelines for feature selection and tuning as well as balancing recall and precision on a sparse data set.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_intro_machinelearning_project).
 
 ### Explore and Summarize Data
 
 **Skills Devloped:** RSTUDIO, R PACKAGES, PLOTTING IN R, EXPLORATORY DATA ANALYSIS TECHNIQUES 
+
 This course focuese on buidling exploratory data anlaysis (EDA) skills and executing EDA in R. During the course of my project I used R to perform EDA on a Washington State school vaccine exemption data set (school years 2011, 2012, 2013) provided by the WA Department of Health (DOH). The data required extensive cleaning and wrangling, prior to exploration. This was my first experience cleaning data in R, haveing previously used python for these tasks.n  It was an enjoyable challenge. My favorite part of this experience was learning about "tidy" data and using specific R packages to tidy the data (dplyr, tidyR etc), and chaining code. Another useful aspect was learning to use RStudio to create .MD files and knit them into html for publication.  Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/EDA_R_Udacity).
 
 ![](https://github.com/baumanab/EDA_R_Udacity/blob/master/EDA_R_FinalProject/img/final_plot_two.png)
@@ -36,16 +38,19 @@ This course focuese on buidling exploratory data anlaysis (EDA) skills and execu
 ### Analyzing the New York Subway Dataset
 
 **Skills Developed:** PYTHON, NUMPY, PANDAS, GGPLOT, LINEAR REGRESSION, SQL QUERIES, PANDASQL, IPYTHON NOTEBOOK 
+
 This course focuses on analyzing and reporting on a NYC subway data set from May 2011, specifically to determine factors that affect ridership. This was a great introduction to data science topics and tools including data wrangling, I/O methods, plotting in python, machine learning, statistical analysis, SQL, PANDAs, IPython Notebook (Jupyter Notebook) and map-reduce. I really enjoyed integrating a variety of computational tools to collate and interrogate the data. Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/IntroDSProject).
 
 ### Data Wrangle OpenstreetMaps Data
 
 **Skills Developed:** PYTHON, MONGODB, DATA VERIFICATION, DATA CLEANING 
+
 This course focuses on how to acquire, audit, wrangle, and clean data, as well as how to reshape the data for MongoDB. Ultimately I used these skills to clean and explore OpenstreetMaps data for the Seattle area. The entire concept of programmatic data wrangling was new to me, as was the use of a nosql database (previous experience was with relational databases). It was intimidating at first but now I have to ability to take command of the data sets I'm interested in exploring. It has been a useful skill for subsequent projects and for the computational aspects of my proteomics and mass spectrometry work. Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/udacity_mongo_github).
 
 ### Design and A/B Test
 
 **Skills Developed:** A/B TEST DESIGN, VARIABILITY OF DIFFERENT METRICS, BINOMIAL DISTRIBUTION, CONFIDENCE INTERVALS, SIGN TEST HYPOTHESIS TESTING, MULTIPLE COMPARISONS 
+
 During this course I designed an A/B test, including which metrics to measure and how long the test should be run. I also analyzed the results of an A/B test that was run by Udacity, recommended a decision, and proposed a follow-up experiment.  Source code, project details, and the final project report are available at the project [Github Repository](https://github.com/baumanab/udacity_ABTesting/blob/master/README.md)
 
 
