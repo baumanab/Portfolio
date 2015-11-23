@@ -41,7 +41,7 @@ This course focuses on buidling exploratory data anlaysis (EDA) skills and execu
 
 This course focuses on analyzing and reporting on a NYC subway data set from May 2011, specifically to determine factors that affect ridership. This was a great introduction to data science topics and tools including data wrangling, I/O methods, plotting in python, machine learning, statistical analysis, SQL, PANDAs, IPython Notebook (Jupyter Notebook) and map-reduce. I really enjoyed integrating a variety of computational tools to collate and interrogate the data. Source code and additional project details are available at the project [Github Repository](https://github.com/baumanab/IntroDSProject).
 
-### Data Wrangle OpenstreetMaps Data
+### Wrangle and Explore OpenstreetMaps Data
 
 **Skills Developed:** PYTHON, MONGODB, DATA VERIFICATION, DATA CLEANING 
 
